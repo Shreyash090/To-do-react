@@ -2,7 +2,7 @@
   "name": "todoapp-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Shreyash090.github.io/To-do-react",
+  "homepage": "http://Shreyash090.github.io/Todo-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
